@@ -33,4 +33,4 @@ assignees: ''
     
 ---
 ### Note
-The time and venue will be decided in the Telegram group, so make sure you've joined up the group.
+The time and venue will be decided in the Discord group, so make sure you've joined up the group.
